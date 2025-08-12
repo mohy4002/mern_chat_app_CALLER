@@ -1,0 +1,31 @@
+
+POUR LANCEr LE PROJECT, DANS LE TERMINAL :
+cd frontend
+npm run dev
+
+
+POUR LANCER LE BACKEND, DANS un nouveu TERMINAL :
+cd backend
+nodemon server.js   
+
+
+
+concernant le chatbot voila les questions possible :
+"How do I add a friend?"
+"How do I change my status?"
+"Can I send images?"
+"How do I remove a friend?"
+ 
+
+Cher professeur,
+
+Je tiens à m'excuser de ne pas avoir inclus toutes les fonctionnalités prévues dans mon projet. Mon expérience avec la pile MERN était limitée, surtout en ce qui concerne la fusion du backend Node.js et du frontend React.
+
+Cependant, je suis vraiment reconnaissant pour cette opportunité car j'ai énormément appris et j'ai acquis des compétences précieuses tout au long de ce processus.
+
+Merci beaucoup pour vos efforts et votre compréhension.
+
+Cordialement,
+
+Mouhyieddine Sanane
+DEVWFS-201
