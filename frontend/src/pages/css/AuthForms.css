@@ -1,0 +1,74 @@
+/* AuthForms.css */
+
+.insc {
+  max-width: 400px;
+  position: relative;
+  margin: 5vh auto;
+  padding: 2rem 2.5rem;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.12);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+.insc img{
+    /* position: absolute;
+    top: -20px;
+    left: 50%; */
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-right: 20px;
+    border: 2px solid #9d5fb2;
+}
+
+.insc h2 {
+  margin-bottom: 1.5rem;
+  color: #9d5fb2;
+  font-weight: 700;
+  font-size: 1.8rem;
+}
+
+.insc input {
+  width: 100%;
+  padding: 0.85rem 1rem;
+  margin-bottom: 1.2rem;
+  border: 1.8px solid #ddd;
+  border-radius: 8px;
+  font-size: 1rem;
+  transition: border-color 0.3s ease;
+}
+
+.insc input:focus {
+  outline: none;
+  border-color: #9d5fb2; /* blue */
+  box-shadow: 0 0 6px rgba(224, 59, 246, 0.4);
+}
+
+.insc button {
+  width: 100%;
+  padding: 0.95rem;
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: white;
+  background-color: #9d5fb2;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.insc button:hover {
+  background-color: #885599;
+}
+
+@media (max-width: 480px) {
+  .insc {
+    margin: 3vh 1rem;
+    padding: 1.5rem 2rem;
+  }
+
+  .insc h2 {
+    font-size: 1.5rem;
+  }
+}
