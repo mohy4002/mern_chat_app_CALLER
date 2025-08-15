@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+frontend/node_modules/
+
+# Environment files
+.env
+frontend/.env
+
+# Build output
+dist/
+build/
+backend/
+frontend/dist/
+frontend/build/
+
+# Public folder: only static assets you want
+frontend/public/*
+
+# System & IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

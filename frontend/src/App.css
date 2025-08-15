@@ -454,7 +454,6 @@ nav.passed{
 
 .section4 .img-section{
   display: flex;
-  background-image: url('./assets/designs/fog.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: 90%;
